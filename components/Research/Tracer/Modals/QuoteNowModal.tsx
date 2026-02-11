@@ -240,4 +240,5 @@ const QuoteNowModal: React.FC<QuoteNowModalProps> = ({ item, onClose, onSave }) 
   );
 };
 
+
 export default QuoteNowModal;
